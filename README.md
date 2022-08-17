@@ -28,7 +28,6 @@ I'm Taufiq, a Computer Science Undergraduate from the National University of Sin
 <a href="https://github.com/MarcusTXK/Swappee">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusTXK&repo=swappee&theme=tokyonight" />
 </a>
-<br/>
 <a href="https://github.com/tau-bar/drawtoday-frontend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tau-bar&repo=drawtoday-frontend&theme=tokyonight" />
 </a>
