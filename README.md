@@ -23,7 +23,7 @@ I'm Taufiq, a Computer Science Undergraduate from the National University of Sin
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tau-bar&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Taufiq's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tau-bar&count_private=true&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Side projects I am working on:
+#### Side projects I have worked on:
 
 <a href="https://github.com/MarcusTXK/Swappee">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusTXK&repo=swappee&theme=tokyonight" />
@@ -31,5 +31,11 @@ I'm Taufiq, a Computer Science Undergraduate from the National University of Sin
 <br/>
 <a href="https://github.com/tau-bar/drawtoday-frontend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tau-bar&repo=drawtoday-frontend&theme=tokyonight" />
+</a>
+<a href="https://github.com/tau-bar/drawtoday-express-server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tau-bar&repo=drawtoday-express-server&theme=tokyonight" />
+</a>
+<a href="https://github.com/tau-bar/taizuyahira-escape-room">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tau-bar&repo=taizuyahira-escape-room&theme=tokyonight" />
 </a>
 
