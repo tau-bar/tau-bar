@@ -2,7 +2,9 @@
 
 [![Github](https://img.shields.io/github/followers/tau-bar?label=Follow&style=social)](https://github.com/tau-bar)
 
-I'm Taufiq, a Computer Science Undergraduate from the National University of Singapore <img src="https://img.icons8.com/color/96/000000/singapore-circular.png" width="20px"/>
+I'm Taufiq, a Computer Science Undergraduate from the National University of Singapore <img src="https://img.icons8.com/color/96/000000/singapore-circular.png" width="20px"/>. 
+
+You can find my portfolio website <a href="https://tau-bar.github.io/">here</a>.
 
 <h3>Connect with me on LinkedIn! </h3>
 <a href="https://www.linkedin.com/in/taubar/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
